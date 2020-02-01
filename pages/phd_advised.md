@@ -4,22 +4,22 @@ title: Encadrement
 hide: true
 ---
 
-# Thèses soutenues
+# Thèses soutenues ({{ site.data.encphd.size }})
 
 <ul>
 {% for student in site.data.encphd %}
 <li>
-  {{ student.nom | capitalize }} {{student.prenom }} : {{ student.titre }}, soutenance le : {{ student.sout }}. Sitation actuelle : {{ student.situation }}
+  <b>{{ student.nom | capitalize }} {{student.prenom }}</b> : {{ student.titre }}, soutenance le : {{ student.sout }}. Sitation actuelle : {{ student.situation }}
 </li>
 {% endfor %}
 </ul>
 
-# Thèses en cours
+# Thèses en cours ({{ site.data.phdrunning.size }})
 
 <ul>
 {% for student in site.data.phdrunning %}
 <li>
-  {{ student.nom | capitalize }} {{student.prenom }} : {{ student.titre }}, soutenance le : {{ student.sout }}.
+  <b>{{ student.nom | capitalize }} {{student.prenom }}</b> : {{ student.titre }}, soutenance le : {{ student.sout }}.
 </li>
 {% endfor %}
 </ul>
