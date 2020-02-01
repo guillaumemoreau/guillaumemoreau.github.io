@@ -11,10 +11,10 @@ nb_rapp: 0
 {% assign nb_pres = 0 %}
 {% assign nb_ex = 0 %}
 {% for student in site.data.jurytheses %}
-{% if student.fonction == "R" %}
+{% if student.fonction == "R" or student.fonction == "RP" %}
 {% assign nb_rapp = nb_rapp | plus: 1 %}
 {% endif %}
-{% if student.fonction == "EXP" %}
+{% if student.fonction == "EXP" or student.fonction == "RP" %}
 {% assign nb_pres = nb_pres | plus: 1 %}
 {% endif %}
 {% if student.fonction == "EX" %}
@@ -29,9 +29,9 @@ J'ai participé à {{ site.data.jurytheses.size }} jurys de thèse dont {{ nb_ra
 ## Rapporteur ({{ nb_rapp }})
 <ul>
 {% for student in site.data.jurytheses %}
-{% if student.fonction == "R" %}
+{% if student.fonction == "R" or student.fonction == "RP" %}
 <li>
-{{ student.candidat }}, {{ student. annee}} : {{ student.ets }}
+{{ student.candidat }}, {{ student.annee}} : {{ student.ets }}
 </li>
 {% endif %}
 {% endfor %}
@@ -40,7 +40,7 @@ J'ai participé à {{ site.data.jurytheses.size }} jurys de thèse dont {{ nb_ra
 ## Président du jury ({{ nb_pres }})
 <ul>
 {% for student in site.data.jurytheses %}
-{% if student.fonction == "EXP" %}
+{% if student.fonction == "EXP" or student.fonction == "RP" %}
 <li>
 {{ student.candidat }}, {{ student. annee}} : {{ student.ets }}
 </li>
