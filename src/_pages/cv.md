@@ -1,6 +1,7 @@
 ---
 title: CV (fr)
 layout: default
+permalink: /cv/
 ---
 
 # Expérience professionnelle
