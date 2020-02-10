@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jurys de thèse et d'HDR
+permalink: /jurys-de-these/ 
 hide: true
 ---
 
