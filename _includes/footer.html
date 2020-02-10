@@ -1,12 +1,11 @@
-<footer class="site-footer">
-    <p class="text">
-        {{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</p>
-            <div class="footer-icons">
-                <ul>
-                <!-- Social icons from Font Awesome, if enabled -->
-                {% include icons.html %}
-                </ul>
-            </div>
+<footer>
+
+  <div class="wrapper">
+    &copy; Copyright {{ site.time | date: '%Y' }} {{ site.name }}.
+    {{ site.footer_text }}
+    {% if site.last_updated %}
+        Last updated: {{ site.last_updated }}.
+    {% endif %}
+  </div>
+
 </footer>
-
-

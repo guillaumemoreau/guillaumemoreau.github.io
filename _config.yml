@@ -1,62 +1,131 @@
-# SITE CONFIGURATION
-baseurl: "/"
-url: "https://guillaumemoreau.github.io"
-
-# THEME-SPECIFIC CONFIGURATION
-title: Guillaume Moreau                                    # site's title
-description: "Guillaume Moreau, Centrale Nantes"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
-
-# Header and footer text
-header_text: Guillaume MOREAU, Ecole Centrale Nantes  # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+name: "Guillaume Moreau"
+email: guillaume.moreau@ec-nantes.fr
+description: > # this means to ignore newlines until "url:"
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
+url:  # the base hostname & protocol for your site
+baseurl: /al-folio # the subpath of your site, e.g. /blog/
+last_updated: # leave blank if you don't want to display last updated
+
+# -----------------------------------------------------------------------------
+# Open Graph
+# -----------------------------------------------------------------------------
+# Display links to the page with a preview object on social media.
+# To achieve this, change serve_og_meta to true and then provide the URL of the
+# preview image as the value of og_image.
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
+og_image: # The site-wide (default for all links) Open Graph preview image
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: guillaumemoreau # your GitHub user name
+twitter_username: gmoreau_ecn # your Twitter handle
+linkedin_username: # your LinkedIn user name
+scholar_userid: 8RGP7TMAAAAJ # your Google Scholar ID
+orcid_id: # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
+
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
+
+google_analytics: UA-XXXXXXXXX # out your google-analytics code
+
+# -----------------------------------------------------------------------------
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
-post_navigation: true
-color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+# -----------------------------------------------------------------------------
+blog_name: al-folio
+blog_description: a simple whitespace theme for academics
 
-# Features
-katex: true                                             # Enable if using math markup
-google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
-disqus_shortname:                                       # Your discus shortname for comments
-layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
-footer_icons:                                           # In _data/social.yml
-share_buttons:                                          # In _data/social.yml
-authors:                                                # In _data/authors.yml
-language:                                               # In _data/language.yml
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
 
-# PORTFOLIO
+# Comments
+disqus_shortname: al-folio # put your disqus shortname
+
+# Optional features
+show_social_icons:  true
+enable_anchorjs:    false
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
 collections:
-  portfolio:
+  news:
+    defaults:
+      layout: post
     output: true
-    permalink: /:collection/:name
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
-# BUILD SETTINGS
+news_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Build settings
 markdown: kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
-exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*",
-          "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
+highlighter: pygments
 
-# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
-remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
 
-exclude:  ['Gemfile*', '*.sh', 'update_site.sh']
+# Plug-ins
+plugins:
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
 
-plugins: ['jekyll/scholar']
-
+# Jekyll-Scholar
 scholar:
-  sort_by: year,month
+
+  last_name: Einstein
+
+  style: apa
+  locale: en
+
+  sort_by: year
   order: descending
-  
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"
