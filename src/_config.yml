@@ -100,7 +100,7 @@ scholar:
 
   last_name: Einstein
 
-  style: apa
+  style: ieee-with-url
   locale: en
 
   sort_by: year
