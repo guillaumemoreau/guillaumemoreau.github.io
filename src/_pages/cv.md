@@ -43,6 +43,9 @@ permalink: /cv/
 - Mandats électifs
   - Membre élu collège MCF du Conseil d'Administration (2006-2010)
   - Membre élu collège PR du Conseil d'Administration (2014-2018)
+- Laboratoire AAU
+  - Membre du comité de direction (2008-)
+  - Membre élu du conseil de laboratoire (2015-)
 
 ### Agence Nationale de la Recherche (ANR)
 
@@ -74,7 +77,7 @@ présidé par {{ comite.pres }}
 
 - [Encadrement doctoral](../phd_advised/)
 - [Participation à des jurys de thèse](../jurys-de-these/)
-- [Contrats de recherche](../contrats)
+- [Reviewing](../reviewing/)
 
 
 
