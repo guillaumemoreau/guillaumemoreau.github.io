@@ -36,6 +36,7 @@ In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the 
   - Presence
   - TVCG
   - IJVR
+  - Pattern Recognition Letters
 - Conferences
   - IEEE ISMAR  
   - IEEE Virtual Reality
