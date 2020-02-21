@@ -6,7 +6,7 @@ inline: false
 ---
 
 
-Job: Postodc dans le cadre du projet Carism : détection de posture multi-personnes pour la création d’une expérience collective en réalité augmentée 
+Job: Postdoc dans le cadre du projet Carism : détection de posture multi-personnes pour la création d’une expérience collective en réalité augmentée 
 
 ***
 
