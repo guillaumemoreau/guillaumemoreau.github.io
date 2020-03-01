@@ -52,7 +52,7 @@ permalink: /cv/
 
 - Membre du comité Blanc/Blanc international/JCJC SIMI2 (2011, 2012 et 2013)
   - Président du comité Blanc/Blanc international/JCJC SIMI2, (2013)
--  Membre du comité Connaissance, Contenus, Interaction (2014)
+-  Membre du comité Connaissances, Contenus, Interaction (2014)
 - Revues de projets à mi-parcours (SIMI2 & CCI) (2014-2016)
 
 ### Haut Conseil de l'Evaluation de la Recherche et de l'Enseignement Supérieur
@@ -70,7 +70,7 @@ présidé par {{ comite.pres }}
 
 <ul>
 {% for resp in site.data.respos %}
-<li><b>{{ resp.ets }}</b> ({{resp.debut}}-{{resp.fin}}) {{resp.description}}</li>
+<li><b><a href="{{ resp.web }}">{{ resp.ets }}</a></b> ({{resp.debut}}-{{resp.fin}}) {{resp.description}}</li>
 {% endfor %}
 </ul>
 ## Plus
@@ -78,6 +78,7 @@ présidé par {{ comite.pres }}
 - [Encadrement doctoral](../phd_advised/)
 - [Participation à des jurys de thèse](../jurys-de-these/)
 - [Reviewing](../reviewing/)
+- [Projets / contrats de recherche](../contrats/)
 
 
 

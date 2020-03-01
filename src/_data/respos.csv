@@ -1,5 +1,6 @@
-debut,fin,ets,description
-2006,2012,AFRV, Membre élu du Conseil d'Administration
-2009,2016,ENI Brest,Membre nommé du Conseil Scientifique et Technologique
-2015,,CLARTE,Membre du Conseil d'administration et vice-président
+debut,fin,ets,description,web
+2006,2012,AFRV, Membre élu du Conseil d'Administration,http://www.af-rv.fr
+2009,2016,ENI Brest,Membre nommé du Conseil Scientifique et Technologique,http://www.enib.fr
+2015,,CLARTE,Membre du Conseil d'administration et vice-président,http://www.clarte.asso.fr
 2019,2020,MEN-MESRI,Membre du groupe de travail CPGE chargé de proposer les programmes d'informatique de CPGE
+2020,2023,H2020 ARTwin,Membre de l'Advisory Board,https://artwin-project.eu
