@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Job! INRIA Hybrid and AAU Postdoc on AR for Neurodegenerative Diseases
+title: Job [filled]! INRIA Hybrid and AAU Postdoc on AR for Neurodegenerative Diseases
 date: 2020-02-07
 inline: false
 ---
 
 
 Job: joint postdoc with INRIA Hybrid and AAU: developing and testing Augmented Reality based aids for Neurodegenerative Diseases
+
+**This position has been filled!**
 
 ***
 
