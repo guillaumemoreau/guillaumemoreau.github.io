@@ -18,19 +18,22 @@ In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the 
 - ACM Augmented Human 2012
 - 3U3D 2012
 
+### Steering Committee
+
+- [IEEE ISMAR(http://ismar20.org/steering-committee/) since 2017
+
 
 ### International Program Committee
 
 - IAPR Machine Vision Applications 2009
-- IEEE ISMAR 2016
-- IEEE 3DUI 2017
-- IEEE Virtual Reality 2018
-- IEEE ISMAR 2019
+- IEEE ISMAR [2016](http://ismar2016.vgtc.org/s-t-program-committee.html), 2019, [2020](http://ismar20.org/scitech-committee/)
+- [IEEE 3DUI 2017](http://3dui.org/2017/conference_committee.htm)
+- [IEEE Virtual Reality 2018](http://ieeevr.org/2018/committees/program.html)
 
 ### Reviewing
 
 - Journals
-  - Frontiers in ICT, section Virtual Environments
+  - Frontiers in ICT, section Virtual Environments (Associate Editor)
   - Computers, Environments and Urban Systems
   - Computer and Graphics
   - Presence
