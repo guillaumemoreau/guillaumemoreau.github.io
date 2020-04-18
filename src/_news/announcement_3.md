@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Job! Postdoc détection de posture multi-personnes pour la création d’une expérience collective en réalité augmentée
+title: Job! Ingénieur détection de posture multi-personnes pour la création d’une expérience collective en réalité augmentée
 date: 2020-02-17
 inline: false
 ---
 
 
-Job: Postdoc dans le cadre du projet Carism : détection de posture multi-personnes pour la création d’une expérience collective en réalité augmentée 
+Job: Ingénieur dans le cadre du projet Carism : détection de posture multi-personnes pour la création d’une expérience collective en réalité augmentée 
 
 ***
 
@@ -23,7 +23,7 @@ Le dispositif, basé sur la réalisation d’animations 3D, permet, par le biais
 
 ### Objectifs
 
-L’objectif de ce post doctorat est de prototyper un système permettant de capturer les postures et les mouvements du corps d’un groupe de personnes dans un espace physique délimité. Les techniques de l’état de l’art permettent aujourd’hui soit de fonctionner avec plusieurs personnes au prix d’un équipement complexe (système de motion capture) soit de capturer une seule personne ou plusieurs dans des configurations sans occlusions à l’aide de dispositifs plus simples.
+L’objectif de ce poste est de prototyper un système permettant de capturer les postures et les mouvements du corps d’un groupe de personnes dans un espace physique délimité. Les techniques de l’état de l’art permettent aujourd’hui soit de fonctionner avec plusieurs personnes au prix d’un équipement complexe (système de motion capture) soit de capturer une seule personne ou plusieurs dans des configurations sans occlusions à l’aide de dispositifs plus simples.
 
 Il s’agit ici de développer de nouvelles techniques permettant la détermination de postures d’un petit groupe de personnes (4-6) en utilisant un matériel limité (pas ou peu d’équipement des personnes). La solution proposée doit être robuste, facile d’utilisation (sans calibration et autonomie des participants), ne doit nécessiter que peu de maintenance et doit être efficace.
 
@@ -32,7 +32,7 @@ La.e candidat.e aura la responsabilité d’étudier et de proposer une instrume
 
 ### Profil recherché
 
-doctorat en informatique dans le domaine de la réalité virtuelle ou augmentée, ou vision par ordinateur
+Master/ingénieur en informatique dans le domaine de la réalité virtuelle ou augmentée, ou vision par ordinateur
 compétences spécifiques recherchées : Programmation C++/C#, Unity3D, OpenCV, Nuitrack, OpenPose, etc…
 
 contacts : [Guillaume Moreau](mailto:guillaume.moreau@ec-nantes.fr), [Jean-Marie Normand](mailto:jean-marie.normand.ec-nantes.fr)
