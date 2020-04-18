@@ -18,8 +18,11 @@ Le projet CARISM (partenaires : ECN/[AAU](https://aau.archi.fr), IMT-A/[LS2N](ht
 Mazedia a conçu, produit et mis en place pour l’Océarium du Croisic un dispositif de réalité augmentée dans l’espace d’exposition temporaire de l’aquarium. Celui‐ci avait pour objectif de proposer une expérience nouvelle d’interaction entre les visiteurs de l’Océarium et des animaux marins virtuels : manchots, requin.
 Le dispositif, basé sur la réalisation d’animations 3D, permet, par le biais d’une caméra de prise de vue, d’un module de captation de la vidéo en live et d’un vidéoprojecteur la restitution des animations 3D en augmentant la scène réelle.
 
-![Réalisation Mazedia](/assets/img/carism-1.png)
-![Réalisation Mazedia](/assets/img/carism-2.png)
+<div class="img_row">
+    <img class="col two left" src="{{ site.baseurl }}/assets/img/carism-1.png"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/carism-2.png"/>
+</div>
+
 
 ### Objectifs
 
