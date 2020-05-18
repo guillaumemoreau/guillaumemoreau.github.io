@@ -51,6 +51,7 @@ In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the 
   - UIST
   - Eurographics UDMV
   - ACM VRST
+  - IEEE CoG
 
 ### Research agencies
 
