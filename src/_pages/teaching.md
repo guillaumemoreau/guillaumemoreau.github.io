@@ -9,8 +9,8 @@ I mainly teach Computer Science and Virtual Reality at Centrale Nantes. All cour
 
 Recent courses include:
 
-- C++ programming in the Virtual Reality major ([course materiel on Github](https://github.com/guillaumemoreau/cpp-course))
+- C++ programming in the Virtual Reality major ([course material on Github](https://github.com/guillaumemoreau/cpp-course))
 - Software methods and quality in the Virtual Reality major
 - Introduction to Computer Graphics in the Virtual Reality major
-- Graph theory and algorithms in the Computer Science major
+- Graph theory and algorithms in the Computer Science major ([course material on Github](https://github.com/guillaumemoreau/graph-course))
 - Databases for apprentice and fast track students ([course material on Github](https://github.com/guillaumemoreau/db-course))

@@ -10,7 +10,7 @@ I have served as a reviewer or more for most scientific venues related to VR and
 ### General Chair
 <img src="{{site.baseurl}}/assets/img/ismar17.png">
 
-In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the main AR conference, in Nantes International Event Center. It was the firts time ever to be organized in France. We welcomed 342 attendees among which more than 85% were coming from abroad.
+In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the main AR conference, in Nantes International Event Center. It was the first time ever to be organized in France. We welcomed 342 attendees among which more than 85% were coming from abroad.
 
 ### Program chair or co-chair
 
@@ -20,7 +20,7 @@ In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the 
 
 ### Steering Committee
 
-- [IEEE ISMAR(http://ismar20.org/steering-committee/) since 2017
+- [IEEE ISMAR](http://ismar20.org/steering-committee/) since 2017
 
 
 ### International Program Committee

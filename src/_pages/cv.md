@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Expérience professionnelle
 
-- Since 2011, Professeur d'informatique, Ecole Centrale de Nantes
+- Depuis 2011, Professeur d'informatique, Ecole Centrale de Nantes
   - Département Informatique et Mathématiques
   - UMR 1563 [Ambiances, Architectures, Urbanités](http://www.aau.archi.fr) CNRS-ECN-ENSAN-ENSAG
   - membre associé [INRIA Hybrid](https://team.inria.fr/hybrid/)
@@ -79,7 +79,9 @@ présidé par {{ comite.pres }}
 - [Participation à des jurys de thèse](../jurys-de-these/)
 - [Reviewing](../reviewing/)
 - [Projets / contrats de recherche](../contrats/)
-
+- Personnel
+  - Tennis
+  - Pilote privé PPL(A)
 
 
 
