@@ -30,6 +30,10 @@ In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the 
 - [IEEE 3DUI 2017](http://3dui.org/2017/conference_committee.htm)
 - [IEEE Virtual Reality 2018](http://ieeevr.org/2018/committees/program.html)
 
+### Miscellaneous 
+
+- IEEE ISMAR 2020 Doctoral consortium chair 
+  
 ### Reviewing
 
 - Journals
