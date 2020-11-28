@@ -10,7 +10,7 @@ hide: true
 <ul>
 {% for student in site.data.encphd %}
 <li>
-  <b>{{ student.nom | capitalize }} {{student.prenom }}</b> : {{ student.titre }}, débutée en {{ student.debut }}, soutenance le : {{ student.sout }}, {{ student.autres }}. Sitation actuelle : {{ student.situation }}
+  <b>{{ student.nom | capitalize }} {{student.prenom }}</b> : {{ student.titre }}, débutée en {{ student.debut }}, soutenance le : {{ student.sout }}, {{ student.autres }}. Situation actuelle : {{ student.situation }}
 </li>
 {% endfor %}
 </ul>
