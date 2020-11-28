@@ -5,6 +5,8 @@ date: 2020-02-10
 description: Etienne Peillard successfully defended his PhD on Nov. 24th 2020
 ---
 
+## Toward a Characterization of Perceptual Biases in Mixed Reality: A Study of Factors Inducing Distance Misperception
+
 <img width="800" src="{{ site.baseurl }}/assets/img/Montage_Etienne_2.png" alt="" title="Affiche de soutenance Etienne"/>
 
 Etienne Peillard successfully defended his PhD on November 24th, 2020 at Ecole Centrale de Nantes in front of the following committee:
