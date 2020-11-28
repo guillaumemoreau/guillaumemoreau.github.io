@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Etienne Peillard PhD's defense
-date: 2020-02-10
+date: 2020-11-24
 description: Etienne Peillard successfully defended his PhD on Nov. 24th 2020
 ---
 
