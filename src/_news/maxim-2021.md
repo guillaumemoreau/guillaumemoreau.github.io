@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-11-21
+date: 2021-09-12
 title: Maxim Spur defended his PhD
 inline: false
 ---
