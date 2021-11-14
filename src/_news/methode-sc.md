@@ -7,7 +7,7 @@ inline: false
 
 J'ai eu la chance d'être invité de la Méthode Scientifique sur France Culture avec Alexandre Bouchet de CLARTE pour parler du nouveau mot à la mot, le metavers de Facebook. 
 
-Le podcast est disponible ici : [https://www.franceculture.fr/emissions/la-methode-scientifique/metavers-est-ce-que-ce-monde-virtuel-est-serieux]
+Le podcast est disponible [ici](https://www.franceculture.fr/emissions/la-methode-scientifique/metavers-est-ce-que-ce-monde-virtuel-est-serieux)
 
 
 
