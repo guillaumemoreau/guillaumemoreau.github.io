@@ -6,7 +6,10 @@ permalink: /cv/
 
 ## Expérience professionnelle
 
-- Depuis 2011, Professeur d'informatique, Ecole Centrale de Nantes
+- Depuis 2020, Professeur d'informatique, IMT Atlantique
+  - Directeur délégué Recherche et Innovation 
+  - UMR 6285 [Lab-STICC](https://labsticc.fr/en) IMT Atlantique-CNRS-UBO-UBS-ENSTA Bretagne-ENIB
+- 2011-2020, Professeur d'informatique, Ecole Centrale de Nantes
   - Département Informatique et Mathématiques
   - UMR 1563 [Ambiances, Architectures, Urbanités](http://www.aau.archi.fr) CNRS-ECN-ENSAN-ENSAG
   - membre associé [INRIA Hybrid](https://team.inria.fr/hybrid/)
@@ -34,6 +37,9 @@ permalink: /cv/
 
 ## Responsabilités
 
+### IMT Atlantique
+
+- Directeur délégué Recherche et Innovation (2020-)
 ### Ecole Centrale de Nantes
 
 - Directeur de la formation (2016-2019)
@@ -44,8 +50,8 @@ permalink: /cv/
   - Membre élu collège MCF du Conseil d'Administration (2006-2010)
   - Membre élu collège PR du Conseil d'Administration (2014-2018)
 - Laboratoire AAU
-  - Membre du comité de direction (2008-)
-  - Membre élu du conseil de laboratoire (2015-)
+  - Membre du comité de direction (2008-2020)
+  - Membre élu du conseil de laboratoire (2015-2021)
 
 ### Agence Nationale de la Recherche (ANR)
 
