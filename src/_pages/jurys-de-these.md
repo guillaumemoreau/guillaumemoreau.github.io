@@ -22,7 +22,7 @@ hide: true
 {% endif %}
 {% endfor %}
 
-J'ai participé à {{ site.data.jurytheses.size }} jurys de thèse dont {{ nb_rapp | plus: nb_ex | plus: nb_pres }} fois comme membre extérieur. Parmi celles-ci, j'ai été {{ nb_rapp }} fois rapporteur et {{ nb_pres }} fois président du jury. J'ai également participé à {{ nb_hdr }} jurys d'HDR comme rapporteur.
+J'ai participé à {{ site.data.jurytheses.size }} jurys de thèse dont {{ nb_rapp | plus: nb_ex | plus: nb_pres }} fois comme membre extérieur. Parmi celles-ci, j'ai été {{ nb_rapp }} fois rapporteur et {{ nb_pres }} fois président du jury. J'ai également participé à {{ nb_hdr }} jurys d'HDR.
 
 
 <h3 class="year">Rapporteur ({{ nb_rapp }})</h3>
@@ -63,13 +63,18 @@ J'ai participé à {{ site.data.jurytheses.size }} jurys de thèse dont {{ nb_ra
 {% endfor %}
 </ul>
 
-<h3 class="year">Jury d'HDR : rapporteur ({{ nb_hdr }})</h3>
+<h3 class="year">Jury d'HDR : ({{ nb_hdr }})</h3>
 
 <ul>
 {% for student in site.data.juryhdr %}
 {% if student.fonction == "R" %}
 <li>
-{{ student.candidat }}, {{ student. annee}} : {{ student.ets }}
+{{ student.candidat }}, {{ student. annee}} : {{ student.ets }}, rapporteur
+</li>
+{% endif %}
+{% if student.fonction == "E" %}
+<li>
+{{ student.candidat }}, {{ student. annee}} : {{ student.ets }}, examinateur
 </li>
 {% endif %}
 {% endfor %}
