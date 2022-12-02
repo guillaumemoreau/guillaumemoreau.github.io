@@ -5,6 +5,7 @@ date: 2021-09-21
 inline: false
 ---
 
+**This position has been filled!**
 
 [CLARTE](https://www.clarte-lab.fr) recrute un.e doctorant.e Cifre sur l'optimisation des retours sensoriels et de l'efficience de l'interaction manuelle dans une expérience de réalité mixte. En collaboration avec [IMT Atlantique](https://www.imt-atlantique.fr) - Equipe [INUIT](https://labsticc.fr/en/teams/inuit) du [Lab-STICC](https://labsticc.fr/en) (Thierry Duval, Etienne Peillard et moi-même)
 

@@ -5,6 +5,7 @@ date: 2021-09-13
 inline: false
 ---
 
+**This position has been filled!**
 
 Nous avons obtenu un financement pour une thèse en co-tutelle entre IMT Atlantique et University of South Australia sur l'amélioration de la confiance des conducteurs de véhicules autonomes par l'utilisation de la réalité augmentée. 
 
