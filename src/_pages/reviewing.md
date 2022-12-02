@@ -17,6 +17,8 @@ In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the 
 - ACM Augmented Human 2010
 - ACM Augmented Human 2012
 - 3U3D 2012
+- IEEE ISMAR 2021
+- IEEE ISMAR 2022
 
 ### Steering Committee
 
