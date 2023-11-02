@@ -5,6 +5,8 @@ date: 2022-12-01
 inline: false
 ---
 
+**This position has been filled!**
+
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/ariade-1.jpg" alt="" title="TRV1"/>
     <img class="col one center" src="{{ site.baseurl }}/assets/img/ariade-2.jpg" alt="" title="TRV2"/>

@@ -19,6 +19,7 @@ In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the 
 - 3U3D 2012
 - IEEE ISMAR 2021
 - IEEE ISMAR 2022
+- IEEE ISMAR 2023
 
 ### Steering Committee
 
@@ -31,6 +32,7 @@ In 2017, I organized [IEEE ISMAR 2017](https://ismar2017.sciencesconf.org), the 
 - IEEE ISMAR [2016](http://ismar2016.vgtc.org/s-t-program-committee.html), 2019, [2020](http://ismar20.org/scitech-committee/)
 - [IEEE 3DUI 2017](http://3dui.org/2017/conference_committee.htm)
 - [IEEE Virtual Reality 2018](http://ieeevr.org/2018/committees/program.html)
+- IEEE Virtual Reality 2024
 
 ### Miscellaneous 
 
