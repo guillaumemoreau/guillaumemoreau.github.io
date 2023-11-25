@@ -10,7 +10,10 @@ hide: true
 <ul>
 {% for student in site.data.encphd %}
 <li>
-  <b>{{ student.nom | upcase }} {{student.prenom }}</b> : {{ student.titre }}, débutée en {{ student.debut }}, soutenance le : {{ student.sout }}, {{ student.autres }}. Situation actuelle : {{ student.situation }}
+  <b>{{ student.nom | upcase }} {{student.prenom }}</b> : {{ student.titre }}, débutée en {{ student.debut }}, soutenance le : {{ student.sout }}, {{ student.autres }}. Situation actuelle : {{ student.situation }} 
+  {% if student.url %} 
+    [<a href = "{{ student.url }}">manuscrit</a>]
+  {% endif %}
 </li>
 {% endfor %}
 </ul>
