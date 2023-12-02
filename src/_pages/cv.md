@@ -87,7 +87,7 @@ présidé par {{ comite.pres }}
 - [Projets / contrats de recherche](../contrats/)
 - Personnel
   - Tennis
-  - Pilote privé PPL(A)
+  - Pilote privé PPL(A), IRSE
 
 
 
