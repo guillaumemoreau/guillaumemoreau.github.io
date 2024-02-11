@@ -5,6 +5,7 @@ date: 2023-11-02
 inline: false
 ---
 
+**This position has been filled!**
 
 Nous sommes à la recherche de candidats pour un poste d'ingénieur plateforme dédié à la plate-forme d'expérimentation d'IMT Atlantique (RV/RA, IHM, BCI, etc.).
 
