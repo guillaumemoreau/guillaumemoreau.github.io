@@ -54,6 +54,9 @@
     {% elsif entry.type == "inproceedings" %}
       <em>In {{entry.booktitle}}</em>
     {% endif %}
+    {% if entry.type == "techreport" %}
+      <em>{{<entry.institution}}: {{entry.type}}</em>
+    {% endif %}
     {% if entry.year %}
       {{entry.year}}
     {% endif %}
