@@ -61,6 +61,8 @@ permalink: /cv/
   - Président du comité Blanc/Blanc international/JCJC SIMI2, (2013)
 -  Membre du comité Connaissances, Contenus, Interaction (2014)
 - Revues de projets à mi-parcours (SIMI2 & CCI) (2014-2016)
+- Membre du [comité d'évaluation CE38 Interfaces : mathématiques, sciences du numérique – sciences
+humaines et sociales](https://anr.fr/fileadmin/aap/2024/selection/aapg-2024-CE.pdf) (2024)
 
 ### Haut Conseil de l'Evaluation de la Recherche et de l'Enseignement Supérieur
 
