@@ -6,7 +6,10 @@ permalink: /cv/
 
 ## Expérience professionnelle
 
-- Depuis 2020, Professeur d'informatique, IMT Atlantique
+- Depuis 2024, Professeur d'informatique, IMT Atlantique
+  - Directeur Recherche et Innovation 
+  - UMR 6285 [Lab-STICC](https://labsticc.fr/en) IMT Atlantique-CNRS-UBO-UBS-ENSTA Bretagne-ENIB
+- 2020-2024, Professeur d'informatique, IMT Atlantique
   - Directeur délégué Recherche et Innovation 
   - UMR 6285 [Lab-STICC](https://labsticc.fr/en) IMT Atlantique-CNRS-UBO-UBS-ENSTA Bretagne-ENIB
 - 2011-2020, Professeur d'informatique, Ecole Centrale de Nantes
