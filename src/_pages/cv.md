@@ -42,7 +42,8 @@ permalink: /cv/
 
 ### IMT Atlantique
 
-- Directeur délégué Recherche et Innovation (2020-)
+- Directeur délégué Recherche et Innovation (2020-2024)
+- Directeur Recherche et Innovation (2024-)
 
 ### Ecole Centrale de Nantes
 
