@@ -66,6 +66,8 @@ permalink: /cv/
 - Revues de projets à mi-parcours (SIMI2 & CCI) (2014-2016)
 - Membre du [comité d'évaluation CE38 Interfaces : mathématiques, sciences du numérique – sciences
 humaines et sociales](https://anr.fr/fileadmin/aap/2024/selection/aapg-2024-CE.pdf) (2024)
+- Membre du [comité d'évaluation CE33 Interaction, Robotique](https://anr.fr/fileadmin/aap/2025/selection/aapg-2025-selection-CE.pdf) (2025)
+  - Vice-Président
 
 ### Haut Conseil de l'Evaluation de la Recherche et de l'Enseignement Supérieur
 

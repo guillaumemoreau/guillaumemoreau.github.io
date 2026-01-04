@@ -1,18 +1,23 @@
-debut,fin,nom,total,partlabo,type,partenaires,contenu,role,title
-1999,2000,VRViz,25k\euro,25k\euro,PSA Peugeot-Citroën,,mise au point d'un outil de réalité virtuelle pour les études de visibilité intérieure, participant,Virtual Reality tool for inner visibility studies
-2000,2002,SA,45k\euro,45k\euro,Sommert Allibert Automotive Industries,,Etudes d'ergonomie en réalité virtuelle,responsable,Ergonomic studies in VR
-2000,2003,Gantom,122k\euro,122k\euro,Centre National de la Cinématographie,CNC,numérisation 3D d'objets muséographiques,responsable,3D modelling of museographic objects
-2000,2004,PERF-RV,1M\euro,,RNTL,IRISA-PSA-Renault-CEA,retour d'effort pour les études d'ergonomie,responsable labo,haptic feedback for ergonomic studies
-2002,2002,VisionDrift,30k\euro,30k\euro,PSA Peugeot-Citroën,,contrôle de dérive par vision,responsable,Vision-based drift control
-2006,2010,Meigeville,900k\euro,100k\euro,Région Pays de la Loire,,SIG 3D+t,responsable,3D+t GIS
-2009,2009,Rex-Fremm,30k\euro,30k\euro,DCNS,,réalité augmentée pour la construction de frégates, responsable,Augmented reality for warship building
-2010,2012,Immersion,,70k\euro,Région Pays de la Loire,Ripple Motion et Cédréo,Réalité augmentée sur plate-forme mobile, responsable,augmented reality on mobile platforms
-2010,2014,VegDud,800k\euro,800k\euro total,ANR,,La place du végétal en ville, participant,Vegetals in the city
-2011,2015,MERVI,335k\euro,33k\euro,Région Pays de la Loire,Airbus Group - CLARTE - LINA - IRISA - STX, mutualisation de très grandes infrastructures de réalité virtuelle, responsable laboratoire,mutualisation of large VR infrastructures
-2011,2016,Artur,1.3M\euro,127k\euro,Région Pays de la Loire,GeM - IRCCyN - CLARTE, réalité augmentée pour l'usine du futur, responsable CERMA,Augmented reality for the factory of the future
-2015,2020,Built2Spec,3M\euro,120k\euro,H2020,,appariement d'images optique et infrarouge,participant,visible and infrared image matching
-2016,2018,AR'n'BIM,1.3M\euro,100k\euro, Images \& Réseaux - PME / BPI,Artecfacto-ACsystèmes et EGISGroupe,réalité augmentée pour les projets de construction,participant,augmented reality for building construction
-2018,2021,Thèse M. Outahar,150k€,150k€,IRT Jules Verne programme Perform,,Réalité augmentée à grande échelle dans l'atelier
-2019,2019,SEGULA,10k\euro,10k\euro, SEGULA Technologies,, Conception collaborative en réalité virtuelle,responsable,collaborative design in virtual reality
-2019,2021,Carism,575k€,55k\euro,Images et Réseaux PME,Mazedia-IMTA-Dynamixyz-Océarium,création d'expérience collective en réalité augmentée,porteur ECN,Creation of an augmented reality collaborative experience
-2020,2021,ARIADE,50k\euro,50k\euro,Institut des Neurosciences Cliniques de Rennes,CHU Rennes,Augmented Reality for improving autonomy in Dementia
+debut,fin,nom,total,partlabo,type,partenaires,contenu,role,title,display
+1999,2000,VRViz,25k\euro,25k\euro,PSA Peugeot-Citroën,,mise au point d'un outil de réalité virtuelle pour les études de visibilité intérieure, participant,Virtual Reality tool for inner visibility studies,1
+2000,2002,SA,45k\euro,45k\euro,Sommert Allibert Automotive Industries,,Etudes d'ergonomie en réalité virtuelle,responsable,Ergonomic studies in VR,1
+2000,2003,Gantom,122k\euro,122k\euro,Centre National de la Cinématographie,CNC,numérisation 3D d'objets muséographiques,responsable,3D modelling of museographic objects,1
+2000,2004,PERF-RV,1M\euro,,RNTL,IRISA-PSA-Renault-CEA,retour d'effort pour les études d'ergonomie,responsable labo,haptic feedback for ergonomic studies,1
+2002,2002,VisionDrift,30k\euro,30k\euro,PSA Peugeot-Citroën,,contrôle de dérive par vision,responsable,Vision-based drift control,1
+2006,2010,Meigeville,900k\euro,100k\euro,Région Pays de la Loire,,SIG 3D+t,responsable,3D+t GIS,1
+2009,2009,Rex-Fremm,30k\euro,30k\euro,DCNS,,réalité augmentée pour la construction de frégates, responsable,Augmented reality for warship building,1
+2010,2012,Immersion,,70k\euro,Région Pays de la Loire,Ripple Motion et Cédréo,Réalité augmentée sur plate-forme mobile, responsable,augmented reality on mobile platforms,1
+2010,2014,VegDud,800k\euro,800k\euro total,ANR,,La place du végétal en ville, participant,Vegetals in the city,1
+2011,2015,MERVI,335k\euro,33k\euro,Région Pays de la Loire,Airbus Group - CLARTE - LINA - IRISA - STX, mutualisation de très grandes infrastructures de réalité virtuelle, responsable laboratoire,mutualisation of large VR infrastructures,1
+2011,2016,Artur,1.3M\euro,127k\euro,Région Pays de la Loire,GeM - IRCCyN - CLARTE, réalité augmentée pour l'usine du futur, responsable CERMA,Augmented reality for the factory of the future,1
+2015,2020,Built2Spec,3M\euro,120k\euro,H2020,,appariement d'images optique et infrarouge,participant,visible and infrared image matching,1
+2016,2018,AR'n'BIM,1.3M\euro,100k\euro, Images \& Réseaux - PME / BPI,Artecfacto-ACsystèmes et EGISGroupe,réalité augmentée pour les projets de construction,participant,augmented reality for building construction,1
+2018,2021,Thèse M. Outahar,150k€,150k€,IRT Jules Verne programme Perform,,Réalité augmentée à grande échelle dans l'atelier,1
+2019,2019,SEGULA,10k\euro,10k\euro, SEGULA Technologies,, Conception collaborative en réalité virtuelle,responsable,collaborative design in virtual reality,1
+2019,2021,Carism,575k€,55k\euro,Images et Réseaux PME,Mazedia-IMTA-Dynamixyz-Océarium,création d'expérience collective en réalité augmentée,porteur ECN,Creation of an augmented reality collaborative experience,1
+2020,2021,ARIADE,50k\euro,50k\euro,Institut des Neurosciences Cliniques de Rennes,CHU Rennes,Augmented Reality for improving autonomy in Dementia,1
+2020,2023,Thèse Cifre Olivier Roupin avec Interdigital,,60k\euro,ANRT-Interdigital,Interdigital,Geometric Change Detection in 3D scenes and model update; application to mixed reality experiences,0
+2021,2024,Thèse Cifre Nicolas Fourrier avec Segula Technologies,,65k\euro,ANRT-Segula Technologies,Segula Technologies, Emménagement collaboratif et interactif de navires en réalité virtuelle,0
+2022,2023,ARIADE3,50k\euro,50k\euro,Institut des Neurosciences Cliniques de Rennes,CHU Rennes,La Réalité Augmentée comme vecteur d’amélioration de l’autonomie chez des personnes avec une démence de type Alzheimer – phase 3,1
+2022,2025,Thèse Cifre Julien Cauquis avec CLARTE,,45k\euro,ANRT-CLARTE,CLARTE,Optimisation des retours sensoriels et de l'efficience de l'interaction manuelle dans une expérience de XR : application à la transmission des savoirs-faire,0
+2023,2027,Astral,613k\euro,123k\euro,ANR PRC,CLARTE-INRIA-Centrale Nantes,Le soi augmenté: vers des avatars efficients en réalité augmentée,responsable local,Augmented Self: towards effective avatars in augmented Reality,1 
