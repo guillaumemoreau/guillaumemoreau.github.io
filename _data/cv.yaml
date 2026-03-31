@@ -93,7 +93,8 @@ cv:
         highlights: 
           - Computer Science Department 
           - AAU Laboratory 
-      
+
+
     Languages:
       - name: French
         summary: "Native speaker"
@@ -103,33 +104,21 @@ cv:
       
       - name: German 
         summary: "Basic"
-  
+
+    Administrative duties:
+      - name:
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
     Projects:
-      - name: Ecole Centrale de Nantes
+      - name: Quantum Computing
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
         highlights:
-          - Dean of Studies (2016-2019)
-          - Head of the Computer Science and Mathematics Department (2012-2016)
-          - Head of the Virtual Reality major (2014-2016)
-          - Chief Information Officer (2006-2012)
-      
-      - name: IMT Atlantique 
-        highlights:
-          - Dean for Research and Innovation (2025-)
-          - Dean for Research and Innovation (2020-2025)
+          - Quantum Teleportation
+          - Quantum Cryptography
+        start_date: 2018-01-01
+        end_date: 2018-01-01
 
-      - name: French National Research Agency (ANR)
-        summary: Besides performing regular reviews for the Agency, I have participated into the following committees
-        highlights:
-          - CE33 *Interaction, Robotics* Scientific Evaluation Committee (2025) as Vice-President
-          - CE38 Scientific Evaluation Committee
-          - Knowledge, Contents, Interaction Scientific Evaluation Committee (2014)
-          - Comité Blanc/Blanc international/JCJC SIMI2 Scientific Evaluation Committee (2011-2013), as Member, then Vice-President and President
-
-      - name: HCERES (High Council for the Evaluation of Research and Higher Education)
-        summary: I have been a member of the following evaluation committees
-        highlights:
-          - SIGMA (2020)
-          - SAMOVAR laboratory (2018)
-          - GREYC laboratory (2015)
-          - IRCICA laboratory (2014)
-          - CRISTAL (merge between LAGIS and LIFL) (2013)
+  
