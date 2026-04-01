@@ -14,7 +14,7 @@ hide: true
 <li>
   <b>{{ student.nom | upcase }} {{student.prenom }}</b> : {{ student.title }}, started in {{ student.debut }}, Defended on: {{ student.sout }}, {{ student.autres }}. Current situation: {{ student.situation }} 
   {% if student.url %} 
-    [<a href = "{{ student.url }}">manuscrit</a>]
+    [<a href = "{{ student.url }}">manuscript</a>]
   {% endif %}
 </li>
 {% endfor %}
