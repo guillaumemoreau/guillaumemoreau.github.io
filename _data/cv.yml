@@ -120,8 +120,8 @@ cv:
       - name: French National Research Agency (ANR)
         summary: Besides performing regular reviews for the Agency, I have participated into the following committees
         highlights:
-          - CE33 *Interaction, Robotics* Scientific Evaluation Committee (2025) as Vice-President
-          - CE38 Scientific Evaluation Committee
+          - "[CE33](https://anr.fr/fileadmin/aap/2025/selection/aapg-2025-selection-CE.pdf) *Interaction, Robotics* Scientific Evaluation Committee (2025) as Vice-President"
+          - "[CE38](https://anr.fr/fileadmin/aap/2024/selection/aapg-2024-CE.pdf) Scientific Evaluation Committee"
           - Knowledge, Contents, Interaction Scientific Evaluation Committee (2014)
           - Comité Blanc/Blanc international/JCJC SIMI2 Scientific Evaluation Committee (2011-2013), as Member, then Vice-President and President
 
@@ -133,3 +133,7 @@ cv:
           - GREYC laboratory (2015)
           - IRCICA laboratory (2014)
           - CRISTAL (merge between LAGIS and LIFL) (2013)
+    
+      - name: Meta Reality Labs 
+        summary: Member of the [Meta Reality Labs Advisory Council](https://www.meta.com/fr-fr/actions/responsible-innovation/policy-advisory-council/?srsltid=AfmBOooiC8ZpMSFE-iJThfoLMxK88sLCma7cHqOwk8COxTqz939VdDKB)
+
