@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-15'
 papers:
   8RGP7TMAAAAJ:-_dYPAW6P2MC:
     citations: 4
@@ -330,7 +330,7 @@ papers:
     title: 'Handwriting for efficient text entry in industrial VR applications: influence of board orientation and sensory feedback on performance'
     year: '2023'
   8RGP7TMAAAAJ:PoWvk5oyLR8C:
-    citations: 11
+    citations: 12
     title: Towards a Sensitive Urban Wind Representation in Virtual Reality
     year: '2022'
   8RGP7TMAAAAJ:QIV2ME_5wuYC:
@@ -342,7 +342,7 @@ papers:
     title: Visual fatigue reduction for immersive stereoscopic displays by disparity, content, and focus-point adapted blur
     year: '2011'
   8RGP7TMAAAAJ:RYcK_YlVTxYC:
-    citations: 117
+    citations: 118
     title: A new typology of augmented reality applications
     year: '2012'
   8RGP7TMAAAAJ:Ri6SYOTghG4C:
@@ -394,7 +394,7 @@ papers:
     title: AR city representation system based on map recognition using topological information
     year: '2009'
   8RGP7TMAAAAJ:Ug5p-4gJ2f0C:
-    citations: 21
+    citations: 22
     title: 'Manipulating the Sense of Embodiment in Virtual Reality: a study of the interactions between the senses of agency, self-location and ownership'
     year: '2022'
   8RGP7TMAAAAJ:V3AGJWp-ZtQC:
@@ -450,7 +450,7 @@ papers:
     title: 'Local Geometric Consensus: a general purpose point pattern-based tracking algorithm'
     year: '2015'
   8RGP7TMAAAAJ:YFjsv_pBGBYC:
-    citations: 439
+    citations: 440
     title: 'Virtual Reality: concepts and technologies'
     year: '2011'
   8RGP7TMAAAAJ:YOwf2qJgpHMC:
@@ -502,7 +502,7 @@ papers:
     title: "La r\xE9alit\xE9 virtuelle comme outil d\u2019\xE9tude sensible du paysage: le cas des \xE9oliennes"
     year: Unknown Year
   8RGP7TMAAAAJ:_Re3VWB3Y0AC:
-    citations: 225
+    citations: 226
     title: Virtual and Augmented Reality in Architectural Design and Education
     year: '2017'
   8RGP7TMAAAAJ:_Ybze24A_UAC:
@@ -546,7 +546,7 @@ papers:
     title: 'Urban Spatiotemporal Data Modeling: Application to the Study of Pedestrian Walkways'
     year: '2010'
   8RGP7TMAAAAJ:b1wdh0AR-JQC:
-    citations: 21
+    citations: 22
     title: Perception of Multisensory Wind Representation in Virtual Reality
     year: '2020'
   8RGP7TMAAAAJ:bEWYMUwI8FkC:
@@ -606,7 +606,7 @@ papers:
     title: A New Method to Characterize Density Adapted to a Coarse City Model
     year: Unknown Year
   8RGP7TMAAAAJ:eflP2zaiRacC:
-    citations: 518
+    citations: 519
     title: "Le trait\xE9 de la R\xE9alit\xE9 Virtuelle, Vol. 2: L\u2019interfa\xE7age, l\u2019immersion et l\u2019interaction en environnement virtuel"
     year: '2006'
   8RGP7TMAAAAJ:eq2jaN3J8jMC:
@@ -626,7 +626,7 @@ papers:
     title: Evaluation of Facial Expressions as an Interaction Mechanism and their Impact on Affect, Workload and Usability in an AR game
     year: '2017'
   8RGP7TMAAAAJ:fPk4N6BV_jEC:
-    citations: 117
+    citations: 118
     title: DoF-based Classification of Augmented Reality Applications
     year: '2012'
   8RGP7TMAAAAJ:fQNAKQ3IYiAC:
@@ -638,7 +638,7 @@ papers:
     title: ESDA2012-82141 MARKUS, AN OPEN-SOURCE WEB APPLICATION TO ANNOTATE STUDENT PAPERS ON-LINE
     year: Unknown Year
   8RGP7TMAAAAJ:g3aElNc5_aQC:
-    citations: 178
+    citations: 179
     title: Effects of physical, non-immersive virtual, and immersive virtual store environments on consumers' perceptions and purchase behavior
     year: '2020'
   8RGP7TMAAAAJ:g5m5HwL7SMYC:
@@ -802,7 +802,7 @@ papers:
     title: A new concept of perceptual fidelity to augment virtual urban environments with microclimatic ambiances
     year: '2012'
   8RGP7TMAAAAJ:rmuvC79q63oC:
-    citations: 109
+    citations: 112
     title: The sense of embodiment in Virtual Reality and its assessment methods
     year: '2023'
   8RGP7TMAAAAJ:roLk4NBRz8UC:
@@ -862,7 +862,7 @@ papers:
     title: "Une m\xE9thode d\u2019estimation du temps de parcours: application de recherche d\u2019itin\xE9raires dans un contexte d\u2019urgence"
     year: '2012'
   8RGP7TMAAAAJ:uWiczbcajpAC:
-    citations: 46
+    citations: 47
     title: "R\xE9alit\xE9 virtuelle et r\xE9alit\xE9 augment\xE9e: Mythes et r\xE9alit\xE9s"
     year: '2018'
   8RGP7TMAAAAJ:u_35RYKgDlwC:
@@ -890,7 +890,7 @@ papers:
     title: "Enrichissement d'une base de donn\xE9es routi\xE8re \xE0 partir de trajectoires GPS de v\xE9hicules d'urgence: Application \xE0 l'aide au choix d'itin\xE9raires"
     year: '2012'
   8RGP7TMAAAAJ:vbGhcppDl1QC:
-    citations: 34
+    citations: 35
     title: 'Virtual Objects Look Farther on the Sides: The Anisotropy of Distance Perception in Virtual Reality'
     year: '2019'
   8RGP7TMAAAAJ:xtRiw3GOFMkC:
@@ -902,7 +902,7 @@ papers:
     title: 'VIRTUAL DATA SPHERE: INVERSE STEREOGRAPHIC PROJECTION FOR IMMERSIVE MULTI-PERSPECTIVE GEOVISUALIZATION'
     year: '2022'
   8RGP7TMAAAAJ:yB1At4FlUx8C:
-    citations: 172
+    citations: 174
     title: 'Virtual Reality and Augmented Reality: Myths and Realities'
     year: '2018'
   8RGP7TMAAAAJ:yD5IFk8b50cC:
