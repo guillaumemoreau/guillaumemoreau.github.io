@@ -401,7 +401,12 @@ ninja.data = [{
             },},{id: "news-new-version-online",
           title: 'New version online',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-new-phd-offer-with-orange-apply",
+          title: 'New PhD offer with Orange. Apply!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/these-orange/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
