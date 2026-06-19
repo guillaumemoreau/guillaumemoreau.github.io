@@ -406,7 +406,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/these-orange/";
-            },},{id: "projects-project-1",
+            },},{id: "news-paper-accepted-at-icmr-26-in-amsterdam-congrats-to-fan",
+          title: 'Paper accepted at ICMR’26 in Amsterdam. Congrats to Fan!',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
