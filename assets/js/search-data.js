@@ -409,7 +409,12 @@ ninja.data = [{
             },},{id: "news-paper-accepted-at-icmr-26-in-amsterdam-congrats-to-fan",
           title: 'Paper accepted at ICMR’26 in Amsterdam. Congrats to Fan!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-new-postdoc-offer-for-european-project-empowr-apply",
+          title: 'New Postdoc offer for European project EMPOWR. Apply!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/EMPOWR-postdoc/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
