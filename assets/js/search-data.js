@@ -414,7 +414,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/EMPOWR-postdoc/";
-            },},{id: "projects-project-1",
+            },},{id: "news-two-papers-accepted-at-ismar-2026-tvcg",
+          title: 'Two papers accepted at ISMAR 2026 (TVCG)',
+          description: "",
+          section: "News",},{id: "news-a-paper-accepted-at-acm-symposium-on-spatial-user-interaction-2026",
+          title: 'A paper accepted at ACM Symposium on Spatial User Interaction 2026',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
