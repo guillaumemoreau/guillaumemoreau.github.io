@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-27'
 papers:
   8RGP7TMAAAAJ:-_dYPAW6P2MC:
     citations: 4
@@ -50,7 +50,7 @@ papers:
     title: 'An immersive path-based study of wind turbines'' landscape: A French case in Plouguin'
     year: '2009'
   8RGP7TMAAAAJ:35N4QoGY0k4C:
-    citations: 32
+    citations: 33
     title: Real-time adaptive blur for reducing eye strain in stereoscopic displays
     year: '2012'
   8RGP7TMAAAAJ:35r97b3x0nAC:
@@ -174,7 +174,7 @@ papers:
     title: Challenges of Image-Based Crowd-Sourcing for Situation Awareness in Disaster Management
     year: '2014'
   8RGP7TMAAAAJ:BwyfMAYsbu0C:
-    citations: 129
+    citations: 130
     title: Consumer perceptions and purchase behavior toward imperfect fruits and vegetables in an immersive virtual reality grocery store
     year: '2019'
   8RGP7TMAAAAJ:D03iK_w7-QYC:
@@ -298,7 +298,7 @@ papers:
     title: 'Hands Off, Avatars On: Towards a Modular Approach for Real-Time Body Modification in AR'
     year: '2025'
   8RGP7TMAAAAJ:NaGl4SEjCO4C:
-    citations: 492
+    citations: 495
     title: "Le trait\xE9 de la r\xE9alit\xE9 virtuelle(Volume I, L'homme et l'environnement virtuel)"
     year: '2006'
   8RGP7TMAAAAJ:NhqRSupF_l8C:
@@ -310,7 +310,7 @@ papers:
     title: Footprint-Based 3D Generalization of Building Groups for Virtual City Visualization
     year: '2012'
   8RGP7TMAAAAJ:OU6Ihb5iCvQC:
-    citations: 482
+    citations: 485
     title: "Le trait\xE9 de la r\xE9alit\xE9 virtuelle : 1\xE8re \xE9dition"
     year: '2003'
   8RGP7TMAAAAJ:P5F9QuxV20EC:
@@ -342,7 +342,7 @@ papers:
     title: Visual fatigue reduction for immersive stereoscopic displays by disparity, content, and focus-point adapted blur
     year: '2011'
   8RGP7TMAAAAJ:RYcK_YlVTxYC:
-    citations: 119
+    citations: 120
     title: A new typology of augmented reality applications
     year: '2012'
   8RGP7TMAAAAJ:Ri6SYOTghG4C:
@@ -362,7 +362,7 @@ papers:
     title: 'LayerStroke: a layer based selector for small target acquisition'
     year: '2015'
   8RGP7TMAAAAJ:SpbeaW3--B0C:
-    citations: 19
+    citations: 20
     title: A systematic review of navigation assistance systems for people with dementia
     year: '2022'
   8RGP7TMAAAAJ:TQgYirikUcIC:
@@ -394,11 +394,11 @@ papers:
     title: AR city representation system based on map recognition using topological information
     year: '2009'
   8RGP7TMAAAAJ:Ug5p-4gJ2f0C:
-    citations: 27
+    citations: 28
     title: 'Manipulating the Sense of Embodiment in Virtual Reality: a study of the interactions between the senses of agency, self-location and ownership'
     year: '2022'
   8RGP7TMAAAAJ:V3AGJWp-ZtQC:
-    citations: 482
+    citations: 485
     title: "Le Trait\xE9 de la r\xE9alit\xE9 virtuelle"
     year: '2006'
   8RGP7TMAAAAJ:VL0QpB8kHFEC:
@@ -454,7 +454,7 @@ papers:
     title: 'Local Geometric Consensus: a general purpose point pattern-based tracking algorithm'
     year: '2015'
   8RGP7TMAAAAJ:YFjsv_pBGBYC:
-    citations: 453
+    citations: 457
     title: 'Virtual Reality: concepts and technologies'
     year: '2011'
   8RGP7TMAAAAJ:YOwf2qJgpHMC:
@@ -498,7 +498,7 @@ papers:
     title: "Le Trait\xE9 de la r\xE9alit\xE9 virtuelle, volume 2 of"
     year: '2003'
   8RGP7TMAAAAJ:_FxGoFyzp5QC:
-    citations: 545
+    citations: 547
     title: "Le trait\xE9 de la r\xE9alit\xE9 virtuelle Vol. 1 fondements et interfaces comportementales (Coll. Sciences math\xE9matiques et informatique)"
     year: '2003'
   8RGP7TMAAAAJ:_Qo2XoVZTnwC:
@@ -506,7 +506,7 @@ papers:
     title: "La r\xE9alit\xE9 virtuelle comme outil d\u2019\xE9tude sensible du paysage: le cas des \xE9oliennes"
     year: Unknown Year
   8RGP7TMAAAAJ:_Re3VWB3Y0AC:
-    citations: 234
+    citations: 237
     title: Virtual and Augmented Reality in Architectural Design and Education
     year: '2017'
   8RGP7TMAAAAJ:_Ybze24A_UAC:
@@ -586,7 +586,7 @@ papers:
     title: Implementing conceptual spatiotemporal model into object DBMS with semantic preserving
     year: '2011'
   8RGP7TMAAAAJ:e5wmG9Sq2KIC:
-    citations: 492
+    citations: 495
     title: "Le trait\xE9 de la r\xE9alit\xE9 virtuelle: Les humains virtuels"
     year: '2009'
   8RGP7TMAAAAJ:eJXPG6dFmWUC:
@@ -610,7 +610,7 @@ papers:
     title: A New Method to Characterize Density Adapted to a Coarse City Model
     year: Unknown Year
   8RGP7TMAAAAJ:eflP2zaiRacC:
-    citations: 529
+    citations: 532
     title: "Le trait\xE9 de la R\xE9alit\xE9 Virtuelle, Vol. 2: L\u2019interfa\xE7age, l\u2019immersion et l\u2019interaction en environnement virtuel"
     year: '2006'
   8RGP7TMAAAAJ:eq2jaN3J8jMC:
@@ -630,11 +630,11 @@ papers:
     title: Evaluation of Facial Expressions as an Interaction Mechanism and their Impact on Affect, Workload and Usability in an AR game
     year: '2017'
   8RGP7TMAAAAJ:fPk4N6BV_jEC:
-    citations: 119
+    citations: 120
     title: DoF-based Classification of Augmented Reality Applications
     year: '2012'
   8RGP7TMAAAAJ:fQNAKQ3IYiAC:
-    citations: 3
+    citations: 4
     title: Using metrics to evaluate and improve text-based information visualization in 3D urban environment
     year: '2014'
   8RGP7TMAAAAJ:foquWX3nUaYC:
@@ -642,11 +642,11 @@ papers:
     title: ESDA2012-82141 MARKUS, AN OPEN-SOURCE WEB APPLICATION TO ANNOTATE STUDENT PAPERS ON-LINE
     year: Unknown Year
   8RGP7TMAAAAJ:g3aElNc5_aQC:
-    citations: 183
+    citations: 189
     title: Effects of physical, non-immersive virtual, and immersive virtual store environments on consumers' perceptions and purchase behavior
     year: '2020'
   8RGP7TMAAAAJ:g5m5HwL7SMYC:
-    citations: 485
+    citations: 488
     title: "Le trait\xE9 de la r\xE9alit\xE9 virtuelle(Volume 3, Les outils et mod\xE8les informatiques des environnements virtuels)"
     year: '2006'
   8RGP7TMAAAAJ:geHnlv5EZngC:
@@ -806,7 +806,7 @@ papers:
     title: A new concept of perceptual fidelity to augment virtual urban environments with microclimatic ambiances
     year: '2012'
   8RGP7TMAAAAJ:rmuvC79q63oC:
-    citations: 135
+    citations: 146
     title: The sense of embodiment in Virtual Reality and its assessment methods
     year: '2023'
   8RGP7TMAAAAJ:roLk4NBRz8UC:
@@ -834,7 +834,7 @@ papers:
     title: Avatar et Humain Virtuel Interactif
     year: '2009'
   8RGP7TMAAAAJ:tkaPQYYpVKoC:
-    citations: 20
+    citations: 21
     title: From visual cues to climate perception in virtual urban environments
     year: '2015'
   8RGP7TMAAAAJ:tuHXwOkdijsC:
@@ -866,7 +866,7 @@ papers:
     title: "Une m\xE9thode d\u2019estimation du temps de parcours: application de recherche d\u2019itin\xE9raires dans un contexte d\u2019urgence"
     year: '2012'
   8RGP7TMAAAAJ:uWiczbcajpAC:
-    citations: 49
+    citations: 50
     title: "R\xE9alit\xE9 virtuelle et r\xE9alit\xE9 augment\xE9e: Mythes et r\xE9alit\xE9s"
     year: '2018'
   8RGP7TMAAAAJ:u_35RYKgDlwC:
@@ -906,7 +906,7 @@ papers:
     title: 'VIRTUAL DATA SPHERE: INVERSE STEREOGRAPHIC PROJECTION FOR IMMERSIVE MULTI-PERSPECTIVE GEOVISUALIZATION'
     year: '2022'
   8RGP7TMAAAAJ:yB1At4FlUx8C:
-    citations: 179
+    citations: 180
     title: 'Virtual Reality and Augmented Reality: Myths and Realities'
     year: '2018'
   8RGP7TMAAAAJ:yD5IFk8b50cC:
@@ -914,7 +914,7 @@ papers:
     title: Developing models for enhanced learning in engineering
     year: '2012'
   8RGP7TMAAAAJ:zA6iFVUQeVQC:
-    citations: 36
+    citations: 37
     title: 'Developing an ontology of space: Application to 3D city modeling'
     year: '2012'
   8RGP7TMAAAAJ:zYLM7Y9cAGgC:
