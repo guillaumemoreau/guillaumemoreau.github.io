@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-28'
 papers:
   8RGP7TMAAAAJ:-_dYPAW6P2MC:
     citations: 4
@@ -38,7 +38,7 @@ papers:
     title: Geometric models of virtual environments
     year: '2011'
   8RGP7TMAAAAJ:2KloaMYe4IUC:
-    citations: 5
+    citations: 6
     title: Enhancing design representational environment to support design learning in the studios
     year: '2017'
   8RGP7TMAAAAJ:2P1L_qKh6hAC:
@@ -82,7 +82,7 @@ papers:
     title: "Mod\xE8les pour les Humano\xEFdes"
     year: '2006'
   8RGP7TMAAAAJ:4hFrxpcac9AC:
-    citations: 0
+    citations: 1
     title: The influence of virtual character actions and emotional expressions on trust in autonomous vehicles
     year: '2026'
   8RGP7TMAAAAJ:5Ul4iDaHHb8C:
@@ -101,6 +101,10 @@ papers:
     citations: 0
     title: Message from the ISMAR 2022 Science and Technology Journal Program Chairs and TVCG Guest Editors
     year: '2022'
+  8RGP7TMAAAAJ:6ZxmRoH8BuwC:
+    citations: 0
+    title: 'Interacting with Two Dominant Hands in AR: A Study of Aimed Motions with Real and Spatially Displaced Virtual Hands'
+    year: '2026'
   8RGP7TMAAAAJ:70eg2SAEIzsC:
     citations: 2
     title: A new dense stereo method using a special wavelet transform
@@ -146,7 +150,7 @@ papers:
     title: "des \xABcasques"
     year: Unknown Year
   8RGP7TMAAAAJ:9vf0nzSNQJEC:
-    citations: 29
+    citations: 30
     title: 'TouchSketch: a touch-based interface for 3D object manipulation and editing'
     year: '2015'
   8RGP7TMAAAAJ:AXPGKjj_ei8C:
@@ -174,7 +178,7 @@ papers:
     title: Challenges of Image-Based Crowd-Sourcing for Situation Awareness in Disaster Management
     year: '2014'
   8RGP7TMAAAAJ:BwyfMAYsbu0C:
-    citations: 130
+    citations: 131
     title: Consumer perceptions and purchase behavior toward imperfect fruits and vegetables in an immersive virtual reality grocery store
     year: '2019'
   8RGP7TMAAAAJ:D03iK_w7-QYC:
@@ -226,7 +230,7 @@ papers:
     title: 'Trust and Safety in Autonomous Vehicles: Evaluating Contextual Visualizations for Highlighting, Prediction, and Anchoring'
     year: '2025'
   8RGP7TMAAAAJ:ILKRHgRFtOwC:
-    citations: 30
+    citations: 31
     title: Studying Exocentric Distance Perception in Optical See-Through Augmented Reality
     year: '2019'
   8RGP7TMAAAAJ:IjCSPb-OGe4C:
@@ -346,7 +350,7 @@ papers:
     title: Visual fatigue reduction for immersive stereoscopic displays by disparity, content, and focus-point adapted blur
     year: '2011'
   8RGP7TMAAAAJ:RYcK_YlVTxYC:
-    citations: 114
+    citations: 115
     title: A new typology of augmented reality applications
     year: '2012'
   8RGP7TMAAAAJ:Ri6SYOTghG4C:
@@ -366,11 +370,11 @@ papers:
     title: 'LayerStroke: a layer based selector for small target acquisition'
     year: '2015'
   8RGP7TMAAAAJ:SpbeaW3--B0C:
-    citations: 21
+    citations: 22
     title: A systematic review of navigation assistance systems for people with dementia
     year: '2022'
   8RGP7TMAAAAJ:TQgYirikUcIC:
-    citations: 11
+    citations: 12
     title: Event-based semantic visualization of trajectory data in urban city with a space-time cube
     year: '2010'
   8RGP7TMAAAAJ:Tiz5es2fbqcC:
@@ -458,7 +462,7 @@ papers:
     title: 'Local Geometric Consensus: a general purpose point pattern-based tracking algorithm'
     year: '2015'
   8RGP7TMAAAAJ:YFjsv_pBGBYC:
-    citations: 449
+    citations: 453
     title: 'Virtual Reality: concepts and technologies'
     year: '2011'
   8RGP7TMAAAAJ:YOwf2qJgpHMC:
@@ -466,7 +470,7 @@ papers:
     title: "Mod\xE9lisation du comportement: de la psychologie comportementalea la simulation de trafic routier"
     year: '1998'
   8RGP7TMAAAAJ:YohjEiUPhakC:
-    citations: 3
+    citations: 4
     title: 'Virtual reality beyond design reviews in shipbuilding: the need for industry-tailored immersive data interaction'
     year: '2022'
   8RGP7TMAAAAJ:YsMSGLbcyi4C:
@@ -510,7 +514,7 @@ papers:
     title: "La r\xE9alit\xE9 virtuelle comme outil d\u2019\xE9tude sensible du paysage: le cas des \xE9oliennes"
     year: Unknown Year
   8RGP7TMAAAAJ:_Re3VWB3Y0AC:
-    citations: 236
+    citations: 237
     title: Virtual and Augmented Reality in Architectural Design and Education
     year: '2017'
   8RGP7TMAAAAJ:_Ybze24A_UAC:
@@ -554,7 +558,7 @@ papers:
     title: 'Urban Spatiotemporal Data Modeling: Application to the Study of Pedestrian Walkways'
     year: '2010'
   8RGP7TMAAAAJ:b1wdh0AR-JQC:
-    citations: 21
+    citations: 22
     title: Perception of Multisensory Wind Representation in Virtual Reality
     year: '2020'
   8RGP7TMAAAAJ:bEWYMUwI8FkC:
@@ -634,7 +638,7 @@ papers:
     title: Evaluation of Facial Expressions as an Interaction Mechanism and their Impact on Affect, Workload and Usability in an AR game
     year: '2017'
   8RGP7TMAAAAJ:fPk4N6BV_jEC:
-    citations: 114
+    citations: 115
     title: DoF-based Classification of Augmented Reality Applications
     year: '2012'
   8RGP7TMAAAAJ:fQNAKQ3IYiAC:
@@ -654,7 +658,7 @@ papers:
     title: "Le trait\xE9 de la r\xE9alit\xE9 virtuelle(Volume 3, Les outils et mod\xE8les informatiques des environnements virtuels)"
     year: '2006'
   8RGP7TMAAAAJ:geHnlv5EZngC:
-    citations: 87
+    citations: 88
     title: '3D City Models and urban information: current issues and perspectives'
     year: '2014'
   8RGP7TMAAAAJ:gsN89kCJA0AC:
@@ -706,7 +710,7 @@ papers:
     title: Message from the ISMAR 2017 General Chair and Deputy General Chairs
     year: '2017'
   8RGP7TMAAAAJ:k8Z6L05lTy4C:
-    citations: 3
+    citations: 4
     title: Detection of Removed Objects in 3D Meshes Using Up-to-Date Images for Mixed-Reality Applications
     year: '2021'
   8RGP7TMAAAAJ:kNdYIx-mwKoC:
@@ -722,7 +726,7 @@ papers:
     title: Semantic Visualization in 3D Urban Environment-Taking Text as an Example
     year: '2013'
   8RGP7TMAAAAJ:kuK5TVdYjLIC:
-    citations: 12
+    citations: 13
     title: Exploring Multiple and Coordinated Views for Multilayered Geospatial Data in Virtual Reality
     year: '2020'
   8RGP7TMAAAAJ:kzcrU_BdoSEC:
@@ -810,7 +814,7 @@ papers:
     title: A new concept of perceptual fidelity to augment virtual urban environments with microclimatic ambiances
     year: '2012'
   8RGP7TMAAAAJ:rmuvC79q63oC:
-    citations: 149
+    citations: 155
     title: The sense of embodiment in Virtual Reality and its assessment methods
     year: '2023'
   8RGP7TMAAAAJ:roLk4NBRz8UC:
@@ -834,7 +838,7 @@ papers:
     title: A study of virtual visual servoing sensitivity in the context of image/GIS registration for urban environments
     year: '2017'
   8RGP7TMAAAAJ:tOudhMTPpwUC:
-    citations: 27
+    citations: 28
     title: A new method to characterize density adapted to a coarse city model
     year: '2013'
   8RGP7TMAAAAJ:tS2w5q8j5-wC:
@@ -866,7 +870,7 @@ papers:
     title: ISMAR 2017 Conference Committee Members
     year: Unknown Year
   8RGP7TMAAAAJ:uLbwQdceFCQC:
-    citations: 74
+    citations: 75
     title: A study on the use of an immersive Virtual Reality store to investigate consumer perceptions and purchase behavior toward non-standard fruits and vegetables
     year: '2017'
   8RGP7TMAAAAJ:uWQEDVKXjbEC:
@@ -906,7 +910,7 @@ papers:
     title: "Enrichissement d'une base de donn\xE9es routi\xE8re \xE0 partir de trajectoires GPS de v\xE9hicules d'urgence: Application \xE0 l'aide au choix d'itin\xE9raires"
     year: '2012'
   8RGP7TMAAAAJ:vbGhcppDl1QC:
-    citations: 37
+    citations: 39
     title: 'Virtual Objects Look Farther on the Sides: The Anisotropy of Distance Perception in Virtual Reality'
     year: '2019'
   8RGP7TMAAAAJ:xtRiw3GOFMkC:
@@ -918,7 +922,7 @@ papers:
     title: 'VIRTUAL DATA SPHERE: INVERSE STEREOGRAPHIC PROJECTION FOR IMMERSIVE MULTI-PERSPECTIVE GEOVISUALIZATION'
     year: '2022'
   8RGP7TMAAAAJ:yB1At4FlUx8C:
-    citations: 183
+    citations: 184
     title: 'Virtual Reality and Augmented Reality: Myths and Realities'
     year: '2018'
   8RGP7TMAAAAJ:yD5IFk8b50cC:
