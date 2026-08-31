@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-08-31'
 papers:
   8RGP7TMAAAAJ:-_dYPAW6P2MC:
     citations: 4
@@ -230,7 +230,7 @@ papers:
     title: 'Trust and Safety in Autonomous Vehicles: Evaluating Contextual Visualizations for Highlighting, Prediction, and Anchoring'
     year: '2025'
   8RGP7TMAAAAJ:ILKRHgRFtOwC:
-    citations: 31
+    citations: 32
     title: Studying Exocentric Distance Perception in Optical See-Through Augmented Reality
     year: '2019'
   8RGP7TMAAAAJ:IjCSPb-OGe4C:
@@ -266,7 +266,7 @@ papers:
     title: Interaction in virtual environments
     year: '2003'
   8RGP7TMAAAAJ:L7CI7m0gUJcC:
-    citations: 42
+    citations: 43
     title: "Influence of virtual objects' shadows and lighting coherence on distance perception in optical see\u2010through augmented reality"
     year: '2020'
   8RGP7TMAAAAJ:LO7wyVUgiFcC:
@@ -910,7 +910,7 @@ papers:
     title: "Enrichissement d'une base de donn\xE9es routi\xE8re \xE0 partir de trajectoires GPS de v\xE9hicules d'urgence: Application \xE0 l'aide au choix d'itin\xE9raires"
     year: '2012'
   8RGP7TMAAAAJ:vbGhcppDl1QC:
-    citations: 39
+    citations: 40
     title: 'Virtual Objects Look Farther on the Sides: The Anisotropy of Distance Perception in Virtual Reality'
     year: '2019'
   8RGP7TMAAAAJ:xtRiw3GOFMkC:
