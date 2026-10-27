@@ -7,6 +7,17 @@ nav_order: 3
 hide: true
 ---
 
+
+# Current PhD candidates ({{ site.data.phdrunning.size }})
+
+<ul>
+{% for student in site.data.phdrunning %}
+<li>
+  <b>{{ student.nom | upcase }} {{student.prenom }}</b> : {{ student.title }}, started in {{ student.debut}}, {{ student.autres }}. {{ student.financement }}
+</li>
+{% endfor %}
+</ul>
+
 # Former PhD candidates ({{ site.data.encphd.size }})
 
 <ul>
@@ -16,16 +27,6 @@ hide: true
   {% if student.url %} 
     [<a href = "{{ student.url }}">manuscript</a>]
   {% endif %}
-</li>
-{% endfor %}
-</ul>
-
-# Current PhD candidates ({{ site.data.phdrunning.size }})
-
-<ul>
-{% for student in site.data.phdrunning %}
-<li>
-  <b>{{ student.nom | upcase }} {{student.prenom }}</b> : {{ student.title }}, started in {{ student.debut}}, {{ student.autres }}. {{ student.financement }}
 </li>
 {% endfor %}
 </ul>

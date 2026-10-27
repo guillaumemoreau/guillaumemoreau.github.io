@@ -1,10 +1,12 @@
 ---
 layout: post
-title: New PhD offer with Orange. Apply!
+title: New PhD offer with Orange [closed]
 date: 2026-04-20
 inline: false
 related_posts: false
 ---
+
+*Update (27/10/2026): a PhD candidate has been found.*
 
 We have just reached an agreement with researchers at Orange R&D, Lannion campus about a PhD dedicated to inverse correlation mechanisms and visual cues of trust with regard to domestic agents.
 
@@ -17,8 +19,6 @@ IMT Atlantique PhD advisors will be:
 On Orange side, they will be: 
 - Dr. Julian Moreira 
 - Dr. Laetitia Gros
-
-Do not hesitate to reach out to me or to the other advisors for any enquiries.
 
 
 
