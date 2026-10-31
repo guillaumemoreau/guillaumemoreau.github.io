@@ -401,8 +401,8 @@ ninja.data = [{
             },},{id: "news-new-version-online",
           title: 'New version online',
           description: "",
-          section: "News",},{id: "news-new-phd-offer-with-orange-apply",
-          title: 'New PhD offer with Orange. Apply!',
+          section: "News",},{id: "news-new-phd-offer-with-orange-closed",
+          title: 'New PhD offer with Orange [closed]',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/these-orange/";
@@ -420,7 +420,12 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-accepted-at-acm-symposium-on-spatial-user-interaction-2026",
           title: 'A paper accepted at ACM Symposium on Spatial User Interaction 2026',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-2-birds-with-one-stone-for-juri-39-s-journey-to-italy",
+          title: '2 birds with one stone for Juri&amp;#39;s journey to Italy',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/juri26/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
