@@ -425,6 +425,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/juri26/";
+            },},{id: "news-new-phd-student-chaimaâ-lebdaoui",
+          title: 'New PhD student Chaimaâ Lebdaoui',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/chaimaa/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
